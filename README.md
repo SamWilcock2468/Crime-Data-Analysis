@@ -7,6 +7,7 @@ It aggregates supplementary data of: population, deprivation, and crime severity
 It also creates a location lookup table, dated 2025 for all areas within England.  
 
 ## Repositry Structure
+```bash
 CrimeData/  
 ├── README.md  
 ├── Data/  
@@ -27,7 +28,7 @@ CrimeData/
     ├── Data-Dictionary.xlsx  
     ├── Statement of Work.docx  
     ├── Workflow Diagram.pdf  
-
+```
 
 ## Installation and Quickstart Guide
 1) Download the repository.  
