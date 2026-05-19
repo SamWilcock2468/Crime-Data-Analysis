@@ -3,3 +3,5 @@
 *.xlsm
 *.xlsb
 *.csv
+
+!Data-Dictionary.xlsx
